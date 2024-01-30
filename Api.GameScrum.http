@@ -1,0 +1,6 @@
+@Api.GameScrum_HostAddress = http://localhost:5199
+
+GET {{Api.GameScrum_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
