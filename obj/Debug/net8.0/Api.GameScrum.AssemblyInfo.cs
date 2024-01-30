@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Api.GameScrum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29d98a656e1d1a924b14e03e704ddb8c99bcbdda")]
 [assembly: System.Reflection.AssemblyProductAttribute("Api.GameScrum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Api.GameScrum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
